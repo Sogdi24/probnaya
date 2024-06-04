@@ -11,8 +11,8 @@
 
 		// *** /SMTP *** //
    
-    const SENDER = 'mr.smokimo620@mail.ru';
-    const CATCHER = 'di.riz@mail.ru';
+    const SENDER = 'di.riz@mail.ru';
+    const CATCHER = 'mr.smokimo620@mail.ru';
     const SUBJECT = 'Заявка с сайта';
     const CHARSET = 'UTF-8';
     
